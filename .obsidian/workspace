@@ -6,6 +6,7 @@
       {
         "id": "14eff502e19a97e3",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +19,6 @@
       {
         "id": "7409cdb6f85dd294",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
@@ -113,9 +113,9 @@
   },
   "lastOpenFiles": [
     "README.md",
+    "202008231216.md",
     "202008231210 zk note.md",
     "Untitled.md",
-    "202008231210.md",
-    "README txt.md"
+    "202008231210.md"
   ]
 }
