@@ -36,5 +36,12 @@
         "key": "l"
       }
     ]
-  }
+  },
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false
 }

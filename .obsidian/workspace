@@ -10,22 +10,22 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aug22_notes.md",
+            "file": "❗️scrap hold.md",
             "mode": "source"
           }
         },
-        "group": "32f8a35c3396f954"
+        "group": "9d3f0d4faf1b9191"
       },
       {
-        "id": "d2ff2cc49ea4c737",
+        "id": "4f0eaf700129443f",
         "type": "leaf",
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "aug22_notes.md"
+            "file": "❗️scrap hold.md"
           }
         },
-        "group": "32f8a35c3396f954"
+        "group": "9d3f0d4faf1b9191"
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aug22_notes.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aug22_notes.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -112,10 +112,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202008231546.md",
-    "README.md",
-    "202008231244_Static_Site_Generator_Review.md",
-    "202008231244.md",
-    "202008231216.md"
+    "❗️scrap hold.md",
+    "index.md",
+    "site_notes/new_format_rules.md",
+    "site_notes/XP_Log.md",
+    "XP_Log.md"
   ]
 }
