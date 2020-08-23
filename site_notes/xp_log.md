@@ -19,6 +19,8 @@ Reference for self with a log of my findings. I have basically no recent/relevan
 - For f's sake. After so much link testing now suddenly I don't need `folder_name/filename.md` in links that aren't in my root folder? I absolutely did earlier. Which is right?
 	- Oh, I think the two files, this one and the format rules, are in the same folder and don't need the folder name ahead of them? URL was showing `foldername/foldername/filename.md`
 	- All the more reason not to have any folder structure I guess.
+- How in the holy hell did I spend so long just trying to add an image and a caption. What is this shit? Like text gets stuck to the previous line somehow and doesn't want to cooperate with me?
+	- Guess I'm glad I deleted my earlier notes full of F-bombs.
 
 ---
 
