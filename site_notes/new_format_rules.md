@@ -17,6 +17,6 @@
 - Still mulling over how to handle organization, landing page, blog, or anything else I'd like to add.
 
 
-More thoughts in [experience log](xp_log.md)
+More thoughts in [experience log](XP_Log.md)
 
 ###### ✍️ Created Aug-23-2020 / Updated Aug-23-2020
