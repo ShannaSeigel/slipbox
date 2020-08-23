@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "❗️scrap hold.md",
+            "file": "site_notes/XP_Log.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "❗️scrap hold.md"
+            "file": "site_notes/XP_Log.md"
           }
         },
         "group": "9d3f0d4faf1b9191"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❗️scrap hold.md"
+                "file": "site_notes/XP_Log.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❗️scrap hold.md"
+                "file": "site_notes/XP_Log.md"
               }
             }
           },
@@ -112,10 +112,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "site_notes/XP_Log.md",
     "❗️scrap hold.md",
     "index.md",
     "site_notes/new_format_rules.md",
-    "site_notes/XP_Log.md",
     "XP_Log.md"
   ]
 }

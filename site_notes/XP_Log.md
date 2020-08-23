@@ -6,7 +6,7 @@ Reference for self with a log of my findings. I have basically no recent/relevan
 ### What have I been up to? What have I learned? (Aug 22/23)
 
 - Created Obsidian vault just from this folder as the root folder that will be shared to GitHub.
-- Made a [reference](site_notes/new_format_rules.md) of tips to keep in mind to transition from my usual markdown workflow to writing with the intent of hosting content online.
+- Made a [reference](new_format_rules.md) of tips to keep in mind to transition from my usual markdown workflow to writing with the intent of hosting content online.
 	- Mainly linking and file names.
 - Spent time testing out how to correctly create links between .md files.
 	- Able to see different types of links in my Obsidian graph that don't translate to links in GH Pages.
