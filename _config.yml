@@ -1,3 +1,55 @@
-theme: jekyll-theme-modernist
-title: SGS Slipbox
-description: It's my box of notes.
+
+title: Shanna's Slipbox
+description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online.
+
+baseurl: https://shannaseigel.github.io/Slipbox/
+url: https://shannaseigel.github.io/Slipbox/
+
+permalink: /:year-:month/:title
+timezone:
+
+favicon: /assets/img/favicon.ico
+
+/* 
+google_analytics: #UA—XXXXXXXX-X
+disqus_shortname: #disqus shortname
+*/
+
+user:
+  name: Shanna
+  pic: /attachments/sgs_profile_img.png
+  picAlt: "Shanna's profile image"
+  job: something for this job line
+  aboutme: comment but could link to a full page
+
+exclude:
+  - README.md
+  - LICENSE
+  - github
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comment: true   
+
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown 
+kramdown:  
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  show_warnings: false
+  enable_coderay: false
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
