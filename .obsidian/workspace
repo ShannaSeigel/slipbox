@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "site_notes/new_format_rules.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "site_notes/new_format_rules.md"
+            "file": "index.md"
           }
         },
         "group": "9d3f0d4faf1b9191"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site_notes/new_format_rules.md"
+                "file": "index.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site_notes/new_format_rules.md"
+                "file": "index.md"
               }
             }
           },
@@ -112,10 +112,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
     "site_notes/new_format_rules.md",
     "site_notes/xp_log.md",
     "README.md",
-    "index.md",
     "❗️scrap hold.md"
   ]
 }

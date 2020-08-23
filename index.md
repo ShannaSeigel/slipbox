@@ -8,3 +8,7 @@ Check out the [experience log](site_notes/xp_log.md)
 See rules I need to follow after being used to Bear or Obsidian links and files [here](site_notes/new_format_rules.md)
 
 *Gotta make those links*
+[ReadMe File](README.md)
+
+Look at the little bebe graph:
+![](attachments/20200823170128_graph.png)
