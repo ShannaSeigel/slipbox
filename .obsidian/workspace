@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "202008231244_Static_Site_Generator_Review.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "README.md"
+            "file": "202008231244_Static_Site_Generator_Review.md"
           }
         },
         "group": "0db9d6b2377afe6e"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "202008231244_Static_Site_Generator_Review.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "202008231244_Static_Site_Generator_Review.md"
               }
             }
           },
@@ -112,10 +112,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "202008231244.md",
     "README.md",
     "202008231216.md",
     "202008231210 zk note.md",
-    "Untitled.md",
-    "202008231210.md"
+    "Untitled.md"
   ]
 }

@@ -16,6 +16,8 @@ Now the link works. Oof. Gonna have to be careful. Wonder how often I'll fuck ti
 
 Now we got a stew goin. Let's try displaying this as a page somewhere before I start pulling in lots of notes.
 
+12:27pm I connected my repo to netlify but nothing is happening. i guess i cant just have a markdown file, i need something to make it into a webpage like jekyll, hugo, gatsby, or others. hrm. how do i go from one step to the next without having a public repo? if i use jekyll with gh pages i dont need netlify but i wouldnt mind keeping some stuff private??? though im going to share it
+
 ---
 
 ###### Created 202008231205 / Updated ⌚️
