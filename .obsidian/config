@@ -27,6 +27,14 @@
         ],
         "key": "n"
       }
+    ],
+    "graph:open-local": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "l"
+      }
     ]
   }
 }

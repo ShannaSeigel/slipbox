@@ -7,6 +7,8 @@ Reference for self with a log of my findings.
 
 Link test:
 [zk note test](202008231210 zk note.md)
+This link appears in the note's local graph in obsidian. Works just fine. 
+
 
 ---
 
