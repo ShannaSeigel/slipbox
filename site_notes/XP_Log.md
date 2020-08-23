@@ -16,6 +16,9 @@ Reference for self with a log of my findings. I have basically no recent/relevan
 	- Really no reason to have a private repository and add the extra steps of using a service outside of GitHub, I just wanted to learn more.
 		- Forgot another plan I had for myself: **keep it simple, get fancy later.** 
 - Now just trying to clear out all my scrap notes and test files.
+- For f's sake. After so much link testing now suddenly I don't need `folder_name/filename.md` in links that aren't in my root folder? I absolutely did earlier. Which is right?
+	- Oh, I think the two files, this one and the format rules, are in the same folder and don't need the folder name ahead of them? URL was showing `foldername/foldername/filename.md`
+	- All the more reason not to have any folder structure I guess.
 
 ---
 
