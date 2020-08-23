@@ -41,7 +41,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "attachments",
   "promptDelete": false
 }
