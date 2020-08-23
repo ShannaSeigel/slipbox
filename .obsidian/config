@@ -1,0 +1,32 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "open-with-default-app": true,
+    "outline": true,
+    "random-note": true,
+    "zk-prefixer": true,
+    "daily-notes": true,
+    "starred": true,
+    "page-preview": false,
+    "tag-pane": true
+  },
+  "hotkeys": {
+    "explorer:new-file": [],
+    "zk-prefixer": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "n"
+      }
+    ]
+  }
+}

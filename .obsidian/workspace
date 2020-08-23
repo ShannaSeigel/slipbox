@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "6416e8f339d6fbfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "312813575de3f0e0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7048b923c2380dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d8a1b2e30c4279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b83f98b17ca4a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42424682106d7c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb3f7d96e2f4e129",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0894ed4d0c7b3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cc325c5c4b52647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1543f3464e03823b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "0c6787f4fa591da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "a5daa09ae34f853d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "202008231210.md",
+    "README txt.md"
+  ]
+}
