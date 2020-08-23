@@ -11,7 +11,9 @@ Testing out a repository for my ZK/garden/second brain/what-have-you
 - Still mulling over how to handle organization, landing page, blog, or anything else I'd like to add.
 
 [Back to home](index.md)
+
 [See my formatting reminders](site_notes/new_format_rules.md)
+
 [See my log of how things are going](site_notes/xp_log.md)
 
 ---
