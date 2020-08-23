@@ -12,6 +12,6 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 
 ---
 
-**Look at the little bebe graph:**
 
-![](attachments/20200823170128_graph.png)
+<img src="attachments/20200823170128_graph.png" width="350" />
+**Look at the little bebe graph**
