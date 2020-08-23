@@ -9,7 +9,6 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 
 *Gotta make those links*
 
-[ReadMe File](README.md)
 
 ---
 
