@@ -11,4 +11,5 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 [ReadMe File](README.md)
 
 Look at the little bebe graph:
+
 ![](attachments/20200823170128_graph.png)
