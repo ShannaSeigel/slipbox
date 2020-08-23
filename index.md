@@ -12,7 +12,9 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 
 ---
 
-<img align="center"src="attachments/20200823170128_graph.png" width="350" />
+<p align="center">
+  <img align="center" width="350" src="attachments/20200823170128_graph.png">
+</p>
 
 <p align="center">
   <i>Look at the little bebe graph</i>
