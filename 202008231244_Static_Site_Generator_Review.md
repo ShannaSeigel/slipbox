@@ -27,5 +27,12 @@ other reasons why good match for me right now
  def need to follow this or similar:
  https://lukaszadam.com/blog/what-is-jekyll
  for packing into actual webpages
- 
- 
+- currently following this tutorial and video. even as simple as what text to copy is above me right now. (dont need $ in the line `$ sdjfnsdjnf --install`)
+
+downloaderizing 
+had to install homebrew
+https://www.addictivetips.com/mac-os/install-homebrew-on-macos-catalina/
+now will continue the tutorial
+
+its 3 fucking pm, all of this is for the end goal of having a private repo hosted somewhere else. but is that even needed or worth my time? I SHOULD be able to edit and connect whatever i want through GH pages and I control what goes there so i can exclude drafts. anything in the repo will be on the website, why make it private? so, fuck this command line bullshit that i cant figure out. i can barely edit an existing theme right now. **keep it simple, get fancy later.** that was the goal remember?????
+
