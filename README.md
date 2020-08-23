@@ -12,7 +12,9 @@ Guess what, I broke rule #1, don't fucking have spaces. This link is broken in G
 
 Second try
 [no spaces link](202008231216_link_to_me.md)
+Now the link works. Oof. Gonna have to be careful. Wonder how often I'll fuck tihs up?
 
+Now we got a stew goin. Let's try displaying this as a page somewhere before I start pulling in lots of notes.
 
 ---
 
