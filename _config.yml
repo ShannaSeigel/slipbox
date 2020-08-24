@@ -1,15 +1,2 @@
 theme: minima
 title: Shanna's Slipbox
-Author: by Shanna
-email: sirry@by.co
-description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online.
-header_pages:
-  - zoinks.md
-  - about.md
-  - other.md
-
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
