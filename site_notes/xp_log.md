@@ -4,12 +4,10 @@ title:
 author: Shanna's lost brain cells
 
 ---
-
 *Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
 
-### What have I been up to? What have I learned?
+### <ins>What have I been up to? What have I learned?</ins>
 
-<br>
 
 **Aug 24, 2020**
 - After a bazillion commits because I haven't figured out local view, I think it's good enough. I forgot how many tiny, tiny changes suck up hours of time. And I'm not doing anything complicated.
