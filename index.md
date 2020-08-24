@@ -10,7 +10,7 @@ Woo-dee do-dee mah dudes
 Check out the [experience log](site_notes/xp_log.md)
 See rules I need to follow after being used to Bear or Obsidian links and files [here](site_notes/new_format_rules.md)
 
-*Gotta make those links b*
+*Gotta make those links bbbb*
 
 [blag poost](_posts/2018-09-12-my-first-post.md)
 

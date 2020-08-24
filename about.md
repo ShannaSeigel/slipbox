@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This page will contain information about me. and myself.
+This page will contain information about me. yo.
 
 created 202008232124
 

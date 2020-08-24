@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Log: Building a Shared Repository for my ZK/Knowledge Base
+title: Log Building a Shared Repository for my ZK/Knowledge Base
 author: Shanna's lost brain cells
 ---
 
