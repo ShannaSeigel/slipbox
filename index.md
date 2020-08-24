@@ -9,3 +9,8 @@ It's August of 2020 and I have no idea what I'm doing. But you're seeing the ind
 - I've got an [experience log](site_notes/xp_log.md)
 
 Blog posts, should they exist, appear below.
+
+---
+
+
+

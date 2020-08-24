@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -74,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -93,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "site_notes/xp_log.md",
     "attachments/20200823170128_graph.png",
-    "attachments/sgs_profile_img.png",
-    "about.md",
-    "zoinks.md",
-    "index.md"
+    "_posts/2018-09-12-my-first-post.md",
+    "attachments/sgs_profile_img.png"
   ]
 }
