@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Format Requirements for Web Sharing
+### Format Requirements for Web Sharing
 1. File names MUST be a single string with no spaces in order to create links.
 
 2. Stick to lowercase text in naming because links are case-sensitive.
