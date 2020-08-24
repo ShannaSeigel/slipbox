@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "❗️scrap hold.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "about.md"
+            "file": "❗️scrap hold.md"
           }
         },
         "group": "9d3f0d4faf1b9191"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -112,10 +112,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "❗️scrap hold.md",
     "about.md",
     "site_notes/xp_log.md",
     "site_notes/new_format_rules.md",
-    "zoinks.md",
-    "index.md"
+    "zoinks.md"
   ]
 }
