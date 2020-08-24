@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: &nbsp;
 author: Shanna's lost brain cells
 
 ---
