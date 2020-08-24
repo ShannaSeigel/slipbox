@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Log: Building a Shared Repository for my ZK/Knowledge Base
-author: banana
+author: Shanna's lost brain cells
 ---
 
+# le log
 Reference for self with a log of my findings. I have basically no recent/relevant experience with website building and am trying the probably harder but free route instead of a website building platform.
 
 ### What have I been up to? What have I learned? (Aug 22/23)

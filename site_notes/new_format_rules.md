@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RULES
-author: by ms. Shanna
+author: Shanna
 ---
 
 ### Format Requirements for Web Sharing

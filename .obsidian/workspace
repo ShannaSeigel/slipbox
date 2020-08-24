@@ -10,22 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "zoinks.md",
             "mode": "source"
           }
-        },
-        "group": "9d3f0d4faf1b9191"
-      },
-      {
-        "id": "4f0eaf700129443f",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "index.md"
-          }
-        },
-        "group": "9d3f0d4faf1b9191"
+        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md"
+                "file": "zoinks.md"
               }
             }
           },
@@ -92,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "zoinks.md"
               }
             }
           },
@@ -112,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "_posts/2018-09-12-my-first-post.md",
     "zoinks.md",
+    "README.md",
+    "index.md",
     "about.md",
-    "site_notes/new_format_rules.md"
+    "site_notes/xp_log.md"
   ]
 }

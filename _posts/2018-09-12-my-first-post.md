@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Post Title #1
+title: Blog Post Title № 1
 author: mah brainz
 ---
 This is the contents of this blog post.

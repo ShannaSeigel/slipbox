@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Welcome
-author: index author
 ---
 
 It's August 23rd, 2020 and I have no idea what I'm doing. But you're seeing the index for Shanna's Site Test.
