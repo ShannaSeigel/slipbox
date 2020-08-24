@@ -1,5 +1,7 @@
 theme: minima
 title: Shanna's Slipbox
+author: by Shanna
+description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online. My goal is to share my ZK/garden/second brain/what-have-you.
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

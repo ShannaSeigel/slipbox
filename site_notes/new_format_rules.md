@@ -11,6 +11,6 @@
 
 
 
-More thoughts in [experience log](xp_log.md)
+SEEE More thoughts in [experience log](xp_log.md)
 
 ###### ✍️ Created Aug-23-2020 / Updated Aug-23-2020
