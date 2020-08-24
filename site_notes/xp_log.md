@@ -9,6 +9,15 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 <br>
 
+#### Learning Aids
+- [Liquid date format](https://shopify.github.io/liquid/filters/date/)
+- [Minima theme](https://github.com/jekyll/minima)
+- [blog w/Jekyll+GH Pages](https://kalyanv.com/2018/09/12/build-a-blog-using-jekyll-and-deploy-to-github-pages-and-set-custom-domain.html)
+- To review: 
+	- [Liquid Intro](https://shopify.github.io/liquid/basics/introduction/)
+	- [GH Themes/CSS](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
+	- [Layouts](https://jekyllrb.com/docs/step-by-step/04-layouts/)
+
 ### <ins>What have I been up to? What have I learned?</ins>
 
 
