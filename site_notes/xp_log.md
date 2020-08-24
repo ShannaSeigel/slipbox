@@ -7,7 +7,6 @@ author: Shanna's lost brain cells
 <p style="font-size:1vw"><i>
 Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i></p>
 
-<br>
 ### <ins>What have I been up to? What have I learned?</ins>
 
 
@@ -40,6 +39,12 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 	- Able to see different types of links in my Obsidian graph that don't translate to links in GH Pages.
 		- `[zk note test](202008231210 zk note.md)` worked fine but the filename has spaces. Immediately broke rule #1 I made myself.
 
+Test pages in local Obsidian graph
+
+<p align="center">
+  <img align="center" width="350" src="attachments/20200823170128_graph.png"><br>
+	<i>it's just a baby</i>
+</p>
 
 ---
 

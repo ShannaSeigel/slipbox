@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "14eff502e19a97e3",
+        "id": "dcc6ffd2cb652f74",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "site_notes/xp_log.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "site_notes/xp_log.md"
-              }
+              "state": {}
             }
           },
           {
@@ -79,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "site_notes/xp_log.md"
-              }
+              "state": {}
             }
           },
           {
@@ -100,9 +93,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "site_notes/xp_log.md",
-    "site_notes/new_format_rules.md",
-    "_posts/2018-09-12-my-first-post.md",
+    "attachments/20200823170128_graph.png",
+    "attachments/sgs_profile_img.png",
+    "about.md",
     "zoinks.md",
     "index.md"
   ]

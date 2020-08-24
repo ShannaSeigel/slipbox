@@ -3,24 +3,9 @@ layout: home
 title: Welcome
 ---
 
-It's August 23rd, 2020 and I have no idea what I'm doing. But you're seeing the index for Shanna's Site Test.
+It's August of 2020 and I have no idea what I'm doing. But you're seeing the index page my test site.
 
-Woo-dee do-dee mah dudes
+- I made a [list of rules](site_notes/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
+- I've got an [experience log](site_notes/xp_log.md)
 
-Check out the [experience log](site_notes/xp_log.md)
-See rules I need to follow after being used to Bear or Obsidian links and files [here](site_notes/new_format_rules.md)
-
-*Gotta make those links bbbb*
-
-[blag poost](_posts/2018-09-12-my-first-post.md)
-
----
-
-<p align="center">
-  <i>Look at the little bebe graph</i>
-</p>
-
-<p align="center">
-  <img align="center" width="350" src="attachments/20200823170128_graph.png">
-</p>
-
+Blog posts, should they exist, appear below.
