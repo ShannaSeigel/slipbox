@@ -1,9 +1,3 @@
----
-layout: page
-title: # experience log
-author: Shanna's lost brain cells
-
----
 
 ### <ins>What have I been up to? What have I learned?</ins>
 
