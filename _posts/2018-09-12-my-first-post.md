@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog post title
+title: Blog Post Title 12
 ---
 This is the contents of this blog post.
 
