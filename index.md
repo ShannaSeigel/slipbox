@@ -19,7 +19,7 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 <p align="center">
   <img align="center" width="350" src="attachments/20200823170128_graph.png">
 </p>
-
+<br>
 <p align="center">
   <i>Look at the little bebe graph</i>
 </p>
