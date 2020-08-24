@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Blog post title
 ---
 This is the contents of this blog post.
 
