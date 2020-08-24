@@ -1,2 +1,13 @@
 theme: minima
 title: Shanna's Slipbox
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%a, %b %-d, %Y"
+
+header_pages:
+  - zoinks.md
+  - about.md
+  - other.md
+
