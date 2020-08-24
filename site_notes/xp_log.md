@@ -1,9 +1,15 @@
+---
+layout: page
+title: # experience log
+author: Shanna's lost brain cells
 
+---
+<p style="font-size:1vw">
+*Teh Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
+</p>
+<br>
 ### <ins>What have I been up to? What have I learned?</ins>
 
-*yuleLog of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
-
-<br>
 
 
 **Aug 24, 2020**
