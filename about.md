@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-This page will contain information about me. yo.
+This page will contain information about all this...
 
-created 202008232124
 
-Last review {{ "now" | date: "%Y-%b-%d" }}.
+---
+
+###### ✍️ Created Aug-23-2020 / Updated {{ "now" | date: "%Y-%b-%d" }}

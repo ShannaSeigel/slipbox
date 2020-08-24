@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zoinks.md",
+            "file": "_posts/2018-09-12-my-first-post.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zoinks.md"
+                "file": "_posts/2018-09-12-my-first-post.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zoinks.md"
+                "file": "_posts/2018-09-12-my-first-post.md"
               }
             }
           },
@@ -100,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2018-09-12-my-first-post.md",
+    "site_notes/xp_log.md",
     "zoinks.md",
     "index.md",
-    "about.md",
-    "site_notes/xp_log.md",
-    "site_notes/new_format_rules.md"
+    "about.md"
   ]
 }
