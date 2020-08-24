@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zoinks
+author: some bullshit
 ---
 
-zk boi
+it's ya zk boi

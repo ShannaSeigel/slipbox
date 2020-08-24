@@ -1,3 +1,9 @@
+---
+layout: page
+title: RULES
+author: by ms. Shanna
+---
+
 ### Format Requirements for Web Sharing
 1. File names MUST be a single string with no spaces in order to create links.
 

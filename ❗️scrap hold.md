@@ -15,8 +15,5 @@ Last review {{ "now" | date: "%Y-%b-%d" }}.
 
 
 
----
-layout: page
 
----
 
