@@ -12,9 +12,11 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 
 *Gotta make those links*
 
-[blug poost](_posts/2018-09-12-my-first-post.md)
+[blag poost](_posts/2018-09-12-my-first-post.md)
 
 ---
+
+
 
 <p align="center">
   <img align="center" width="350" src="attachments/20200823170128_graph.png">

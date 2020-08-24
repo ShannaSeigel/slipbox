@@ -11,3 +11,12 @@ removed from config file, couldnt see footer anymore?
 
 adding auto date updated
 Last review {{ "now" | date: "%Y-%b-%d" }}.
+
+
+
+
+---
+layout: page
+
+---
+
