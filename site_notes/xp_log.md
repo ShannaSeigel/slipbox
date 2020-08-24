@@ -1,12 +1,13 @@
 ---
 layout: page
-title: ### <ins>What have I been up to? What have I learned?</ins>
+title: # experience log
 author: Shanna's lost brain cells
 
 ---
 
+### <ins>What have I been up to? What have I learned?</ins>
 
-*Cpt Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
+*Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
 
 <br>
 
