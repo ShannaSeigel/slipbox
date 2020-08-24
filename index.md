@@ -9,7 +9,7 @@ See rules I need to follow after being used to Bear or Obsidian links and files 
 
 *Gotta make those links*
 
-[blug](_posts/2018-09-12-my-first-post.md)
+[blug poost](_posts/2018-09-12-my-first-post.md)
 
 ---
 

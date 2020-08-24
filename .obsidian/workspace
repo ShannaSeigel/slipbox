@@ -6,6 +6,7 @@
       {
         "id": "14eff502e19a97e3",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +19,6 @@
       {
         "id": "4f0eaf700129443f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
