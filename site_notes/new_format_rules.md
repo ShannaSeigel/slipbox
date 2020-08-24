@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RULES
+title: REMEMBER ME 🤖
 author: Shanna
 ---
 
@@ -20,4 +20,4 @@ SEEE More thoughts in [experience log](xp_log.md)
 
 ---
 
-###### ✍️ Created Aug-23-2020 / Updated Aug-23-2020
+###### ✍️ Created Aug-23-2020 / Updated {{ "now" | date: "%Y-%b-%d" }}

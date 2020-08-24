@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Experience Building a Shared Repository for my ZK/Knowledge Base
+title: 
 author: Shanna's lost brain cells
 
 ---
 
 *Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.*
 
-### What have I been up to? What have I learned? (Aug 22-24)
+### What have I been up to? What have I learned?
 
 <br>
 
