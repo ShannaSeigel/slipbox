@@ -1,11 +1,11 @@
 theme: minima
 title: Shanna's Slipbox
+
 header_pages:
+  - zoinks.md
   - about.md
-defaults:
-  - scope:
-      path: ""
-    values:
-      author: "Shanna"
+  - other.md
+
+author: "Shanna"
 
 description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online. 

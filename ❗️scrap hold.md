@@ -2,3 +2,8 @@ from Shanna - shannaseigel@twitter. github_username: your_github_username. twitt
 
 
 
+---
+layout: home
+list_title: "Latest Posts"
+---
+removed from config file, couldnt see footer anymore?
