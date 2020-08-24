@@ -6,5 +6,10 @@ theme: minima
 title: Shanna's Slipbox
 header_pages:
   - about.md
-author: "blog author"
-description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online. from Shanna - shannaseigel@twitter. github_username: your_github_username. twitter_username: your_twitter_username
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "Shanna"
+
+description: A trial and error experiment in learning how to build modern websites and hosting my Obsidian vault online. 
