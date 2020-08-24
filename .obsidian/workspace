@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2018-09-12-my-first-post.md",
+            "file": "_posts/2018-09-12-my-first-post.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "2018-09-12-my-first-post.md"
+            "file": "_posts/2018-09-12-my-first-post.md"
           }
         },
         "group": "9d3f0d4faf1b9191"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018-09-12-my-first-post.md"
+                "file": "_posts/2018-09-12-my-first-post.md"
               }
             }
           },
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018-09-12-my-first-post.md"
+                "file": "_posts/2018-09-12-my-first-post.md"
               }
             }
           },
