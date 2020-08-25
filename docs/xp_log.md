@@ -4,8 +4,8 @@ title: # experience log
 author: Shanna's lost brain cells
 
 ---
-<p style="font-size:small"><i>
-Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i></p>
+<i>
+Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i>
 
 <br>
 
