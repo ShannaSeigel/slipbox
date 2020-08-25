@@ -7,7 +7,6 @@ author: Shanna's lost brain cells
 <i>
 Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i>
 
-<br>
 
 #### Learning Aids
 - [Liquid date format](https://shopify.github.io/liquid/filters/date/)
