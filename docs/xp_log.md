@@ -4,8 +4,19 @@ title: # experience log
 author: Shanna's lost brain cells
 
 ---
-<p style="font-size:1vw"><i>
+<p style="font-size:small"><i>
 Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i></p>
+
+<br>
+
+#### Learning Aids
+- [Liquid date format](https://shopify.github.io/liquid/filters/date/)
+- [Minima theme](https://github.com/jekyll/minima)
+- [blog w/Jekyll+GH Pages](https://kalyanv.com/2018/09/12/build-a-blog-using-jekyll-and-deploy-to-github-pages-and-set-custom-domain.html)
+- To review: 
+	- [Liquid Intro](https://shopify.github.io/liquid/basics/introduction/)
+	- [GH Themes/CSS](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
+	- [Layouts](https://jekyllrb.com/docs/step-by-step/04-layouts/)
 
 <br>
 
@@ -45,7 +56,7 @@ Test pages in local Obsidian graph
 
 <p align="center">
   <img align="center" width="350" src="https://raw.githubusercontent.com/ShannaSeigel/Slipbox/master/attachments/20200823170128_graph.png"><br>
-	<i>it's just a baby</i>
+	<i>it's just a baby graph</i>
 </p>
 
 

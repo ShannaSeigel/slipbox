@@ -1,10 +1,16 @@
 ---
 layout: page
-title: REMEMBER ME 🤖
+title: Format Requirements for Web Sharing
 author: Shanna
 ---
 
-### Format Requirements for Web Sharing
+
+<div align="center">
+<img src="https://64.media.tumblr.com/tumblr_m3s738V28j1r8q9x8o1_500.gif" width="350" />
+</div>
+	
+<br>
+
 1. File names MUST be a single string with no spaces in order to create links.
 
 2. Stick to lowercase text in naming because links are case-sensitive.
@@ -16,7 +22,7 @@ author: Shanna
 
 <br><br>
 
-SEEE More thoughts in [experience log](xp_log.md)
+More thoughts in [experience log](xp_log.md)
 
 ---
 
