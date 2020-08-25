@@ -6,7 +6,7 @@ author: Shanna
 
 
 <div align="center">
-<img src="https://64.media.tumblr.com/tumblr_m3s738V28j1r8q9x8o1_500.gif" />
+<img src="https://64.media.tumblr.com/tumblr_m3s738V28j1r8q9x8o1_500.gif" width="350" />
 </div>
 	
 <br>
