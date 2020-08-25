@@ -1,10 +1,12 @@
 ---
 layout: page
-title: REMEMBER ME 🤖
+title: RFormat Requirements for Web Sharing
 author: Shanna
 ---
 
-### Format Requirements for Web Sharing
+<img src="/library/pharoh-bender.gif" alt="Pharoh Bender"></img>
+
+
 1. File names MUST be a single string with no spaces in order to create links.
 
 2. Stick to lowercase text in naming because links are case-sensitive.
