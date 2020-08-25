@@ -1,10 +1,13 @@
 ---
 layout: page
-title: RFormat Requirements for Web Sharing
+title: Format Requirements for Web Sharing
 author: Shanna
 ---
 
-<img src="/library/pharoh-bender.gif" alt="Pharoh Bender"></img>
+
+
+<img src="https://64.media.tumblr.com/tumblr_m3s738V28j1r8q9x8o1_500.gif" align="center">
+
 
 
 1. File names MUST be a single string with no spaces in order to create links.
