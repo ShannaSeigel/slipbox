@@ -18,6 +18,8 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 	- [GH Themes/CSS](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
 	- [Layouts](https://jekyllrb.com/docs/step-by-step/04-layouts/)
 
+<br>
+
 ### <ins>What have I been up to? What have I learned?</ins>
 
 

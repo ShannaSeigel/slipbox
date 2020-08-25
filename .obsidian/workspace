@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "❗️scrap hold.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "❗️scrap hold.md"
               }
             }
           },
@@ -100,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
+    "❗️scrap hold.md",
+    "_posts/2020-08-23-my-first-post.md",
     "site_notes/xp_log.md",
-    "about.md",
-    "site_notes/new_format_rules.md",
-    "_posts/2020-08-23-my-first-post.md"
+    "index.md",
+    "about.md"
   ]
 }
