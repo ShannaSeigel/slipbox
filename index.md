@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Hello!
 ---
 
 Welcome to my test site, a trial and error experiment in learning how to build modern websites and hosting my ~~ZK/garden/second brain/what-have-you~~ Obsidian vault online.
