@@ -1,12 +1,14 @@
 ---
 layout: home
 title: Hello!
+description: Learning as I go.
+
 ---
 
 Welcome to my test site, a trial and error experiment in learning how to build modern websites and hosting my ~~ZK/garden/second brain/what-have-you~~ Obsidian vault online.
 
 - I made a [list of rules](docs/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
-- I've got an [experience log](docs/xp_log.md)
+- I've got an [experience log](docs/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
 
 ## Plans for Slipbox Files
 - Need to review incoming files from my existing notes for formatting requirements regarding filenames and links.
