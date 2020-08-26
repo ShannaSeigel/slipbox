@@ -20,10 +20,8 @@ Welcome to my test site, a trial and error experiment in learning how to build m
 ###### Updated {{ "now" | date: "%Y-%b-%d" }}
 <br><br>
 
-### Bloggle
-Blog posts, should they exist, appear below.
+### Blogglerizer
+Blog posts, should they exist, will appear below.
 
 ---
-
-
 
