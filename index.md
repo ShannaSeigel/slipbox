@@ -16,6 +16,7 @@ Welcome to my test site, a trial and error experiment in learning how to build m
 - Still mulling over how to handle organization, landing page, blog, or anything else I'd like to add.
 
 ###### Updated {{ "now" | date: "%Y-%b-%d" }}
+<br><br>
 
 ### Bloggle
 Blog posts, should they exist, appear below.
