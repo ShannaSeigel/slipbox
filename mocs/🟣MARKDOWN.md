@@ -1,6 +1,13 @@
-# Markdown MOC
+---
+layout: page
+title: Markdown MOC
+author: Shanna
 
-ALL OF THESE LINKS ARE BROKEN AND NEED FIXING!!
+---
+
+###### ✍️ Created Aug 20, 2020 / Updated Aug-28-2020 
+
+❗️ALL OF THESE LINKS ARE BROKEN AND NEED FIXING!!
 [[../../✅ Task List]]
 
 ## What is Markdown?
@@ -18,4 +25,6 @@ ALL OF THESE LINKS ARE BROKEN AND NEED FIXING!!
 [[Zettelkasten/202008132239 Typora 𝚃𝚝]]
 
 
-Aug-21-2020 has 8 backlinks
+---
+
+Aug-21-2020 has 8 backlinks - BUT NOT TODAY, aug 28
