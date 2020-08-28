@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+# About
 This page will contain information about this site
 Look up how to add the 'about' link to the top right nav on index
 
