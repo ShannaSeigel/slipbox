@@ -11,4 +11,4 @@ minima:
 header_pages:
   - about.md
   - /one_pagers/test-page.md
-
+  - test-nav.md
