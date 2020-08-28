@@ -22,8 +22,8 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 ### <ins>What have I been up to? What have I learned?</ins>
 
- <button type="button" class="collapsible">Fold</button>
-<div style="display: none; overflow: hidden;">
+ <button type="button" class="collapsible">Old</button>
+<div style="display: none;">
 <p>
 **Aug 28, 2020**
 - No major changes, just reading more about command line and working with Jekyll. My first attempts at following a tutorial to install Jekyll was a bust but I didn't even know what I was doing. Trying to back up a bit.
