@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Markdown MOC
+title: Content Map: Markdown
 author: Shanna
 
 ---
