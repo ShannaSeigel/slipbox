@@ -61,7 +61,7 @@ Test pages in local Obsidian graph
 
 <p align="center">
   <img align="center" width="350" src="/site_images/obsidian_graph_20200823170128.png"><br>
-	<i>it's just a baby graph</i>
+	<i>it's just a baby graph in Obsidian</i>
 </p>
 
 
