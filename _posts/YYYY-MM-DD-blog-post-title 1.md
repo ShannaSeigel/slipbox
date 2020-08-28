@@ -6,13 +6,14 @@ author: Shanna
 
 ---
 
-### H3 Subtitle
+### H3 Subtitle / First Header
 
 
 👋 Here we see the contents of a blog post.
 
 
 
+<br>
 
 --- 
 
