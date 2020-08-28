@@ -6,7 +6,7 @@ author: Shanna
 ---
 
 
-### What is [Markdown](../mocs/%F0%9F%9F%A3MARKDOWN)??
+### What is [Markdown](../mocs/%F0%9F%9F%A3MARKDOWN)?
 
 > It’s a plain text format for writing structured documents, based on formatting conventions from email and usenet. 
 > 
