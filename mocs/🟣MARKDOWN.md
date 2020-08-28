@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Content Map - Markdown
+title:  Markdown Content Map
 author: Shanna
 
 ---
@@ -12,19 +12,15 @@ author: Shanna
 
 ### Variations on Markdown
 
-[CommonMark](../zets/202008011540-commonmark-markdown.md)
-
-[GitHub Flavored Markdown](../zets/202008011612-github-flavored-markdown.md)
+- [CommonMark](../zets/202008011540-commonmark-markdown.md)
+- [GitHub Flavored Markdown](../zets/202008011612-github-flavored-markdown.md)
 
 ### Examples of Markdown Tools
 
-[MDTest](../zets/202008010550-mdtest.md)
-
-[Pandoc for Markdown](../zets/202008021358-pandoc-program.md)
-
-[Babelmark](../zets/202008011551-babelmark-for-markdown.md)
-
-[Typora](../zets/202008132239-typora.md)
+- [MDTest](../zets/202008010550-mdtest.md)
+- [Pandoc for Markdown](../zets/202008021358-pandoc-program.md)
+- [Babelmark](../zets/202008011551-babelmark-for-markdown.md)
+- [Typora](../zets/202008132239-typora.md)
 
 
 
