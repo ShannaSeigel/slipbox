@@ -19,3 +19,5 @@ author: Shanna
 
 
 Tags: 
+
+Link to list of blog posts somehow?
