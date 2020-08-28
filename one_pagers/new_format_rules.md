@@ -26,4 +26,4 @@ More thoughts in [experience log](xp_log.md)
 
 ---
 
-###### ✍️ Created Aug-23-2020 / Updated {{ "now" | date: "%Y-%b-%d" }}
+###### ✍️ Created Aug-23-2020 / Updated Aug-27-2020

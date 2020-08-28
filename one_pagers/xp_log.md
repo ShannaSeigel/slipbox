@@ -65,8 +65,3 @@ Test pages in local Obsidian graph
 </p>
 
 
-
----
-
-
-###### ✍️ Created Aug-23-2020 / Updated Aug-28-2020
