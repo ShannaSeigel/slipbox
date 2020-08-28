@@ -5,10 +5,9 @@ author: Shanna
 
 ---
 
-
-[What is Markdown?](../zets/202007251031-what-is-markdown.md)
-
-[Why use markdown over text files?](../zets/202008151317-argument-why-markdown-over-text-files.md)
+### Questions
+- [What is Markdown?](../zets/202007251031-what-is-markdown.md)
+- [Why use markdown over text files?](../zets/202008151317-argument-why-markdown-over-text-files.md)
 
 ### Variations on Markdown
 
