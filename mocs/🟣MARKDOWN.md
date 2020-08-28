@@ -1,30 +1,29 @@
 ---
 layout: page
-title: Content Map: Markdown
+title: Content Map - Markdown
 author: Shanna
 
 ---
 
 
-❗️ALL OF THESE LINKS ARE BROKEN AND NEED FIXING!!
-[[../../✅ Task List]]
+[What is Markdown?](../zets/202007251031-what-is-markdown.md)
+[Why use markdown over text files?](../zets/202008151317-argument-why-markdown-over-text-files.md)
 
-## What is Markdown?
-[[Zettelkasten/202007251031 What is Markdown]]
-[[Zettelkasten/202008151317 Argument - Why markdown over text files]]
+### Variations on Markdown
 
-## Variations on Markdown
-[[Zettelkasten/202008011540 CommonMark Markdown]]
-[[Zettelkasten/202008011612 GitHub Flavored Markdown]]
+[CommonMark](../zets/202008011540-commonmark-markdown.md)
+[GitHub Flavored Markdown](../zets/202008011612-github-flavored-markdown.md)
 
-## Examples of Markdown Tools
-[[Zettelkasten/202008010550 .mdTest]]
-[[Zettelkasten/202008021358 Pandoc for .md]]
-[[Zettelkasten/202008011551 Babelmark for .md]]
-[[Zettelkasten/202008132239 Typora 𝚃𝚝]]
+### Examples of Markdown Tools
+
+[MDTest](../zets/202008010550-mdtest.md)
+[Pandoc for Markdown](../zets/202008021358-pandoc-program.md)
+[Babelmark](../zets/202008011551-babelmark-for-markdown.md)
+[Typora](../zets/202008132239-typora.md)
+
 
 
 ---
 
-Aug-21-2020 has 8 backlinks - BUT NOT TODAY, aug 28
+
 ###### Created Aug 20, 2020 / Updated Aug-28-2020 
