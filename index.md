@@ -18,7 +18,7 @@ Welcome to my test site, a trial and error experiment in learning how to build m
 - Goal to keep list of zettels in a flat, single folder in hopes of reducing broken links.
 - Still mulling over how to handle organization, landing page, blog, or anything else I'd like to add.
 
-###### Updated {{ "now" | date: "%Y-%b-%d" }}
+###### Updated Aug-27-2020
 <br><br>
 
 ### Blogglerizer
