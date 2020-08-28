@@ -7,6 +7,11 @@ description: Learning as I go.
 
 Welcome to my test site, a trial and error experiment in learning how to build modern websites and hosting my ~~ZK/garden/second brain/what-have-you~~ Obsidian vault online.
 
+Aug 28, 2020: **[A zettel appears!](zets/202007251031-what-is-markdown.md) Moving some of my preexisting notes here to start testing how to share info online and/or how to organize it.**
+- I was also working on index notes or "maps of content" (MOCs) previously for organizing bigger groups of notes. Working to update my map about [Markdown](mocs/🟣MARKDOWN.md).
+
+
+Other stuffs
 - I made a [list of rules](one_pagers/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
 - I've got an [experience log](one_pagers/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
 - Using the [Minima theme](https://github.com/jekyll/minima) for learning.
