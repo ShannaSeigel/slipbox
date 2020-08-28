@@ -22,15 +22,11 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 ### <ins>What have I been up to? What have I learned?</ins>
 
- <button type="button" class="collapsible">Unfold</button>
-<div style="display: none;">
-<p>
+
 **Aug 28, 2020**
 - No major changes, just reading more about command line and working with Jekyll. My first attempts at following a tutorial to install Jekyll was a bust but I didn't even know what I was doing. Trying to back up a bit.
 - Also trying to pace myself since I have loads of other things to do in my life and it's not like anything I share here has a completion deadline.
 - The page titles keep getting duplicated and I saw last week how to fix this but it's still driving me slightly bonkers when I want one title in the navigation and a more descriptive title on the page. It seems like there are other ways to add navigation links ([review here](https://jekyllrb.com/tutorials/navigation/)) but I haven't had time to review.
-	</p>
-</div> 
 
 <br>
 
@@ -68,21 +64,3 @@ Test pages in local Obsidian graph
   <img align="center" width="350" src="../site_images/obsidian_graph_20200823170128.png"><br>
 	<i>it's just a baby graph in Obsidian.</i>
 </p>
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
