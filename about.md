@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: # About
+
 ---
 
-*This page will contain information about this site*
+# About Shanna's Slipbox
 
 I'm testing out the idea of my own online knowledge repository. Copying my 'readme' file for now:
 
