@@ -4,8 +4,9 @@ title: About
 ---
 
 # About
-This page will contain information about this site
-Look up how to add the 'about' link to the top right nav on index
+*This page will contain information about this site*
+
+I'm testing out the idea of my own online knowledge repository. See the [readme](README.md) file for more until this page gets more content.
 
 
 ---

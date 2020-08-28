@@ -10,5 +10,5 @@ minima:
 
 header_pages:
   - about.md
-  - /one_pagers/test-page.md
-  - test-nav.md
+
+# file must be in repo root to show up here
