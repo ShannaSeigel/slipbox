@@ -21,15 +21,14 @@ Markdown is a plain text way of formatting documents while keeping the content r
 > — [GitHub](https://github.com)
 
 
-### It is possible to convert between variations or markdown
+### It's possible to convert between variations or markdown
 For example, with [Pandoc](202008021358-pandoc-program.md)
 
 
 
 ### Examples of markdown variations:
-[CommonMark](202008011540-commonmark-markdown.md)
-
-[GitHub Flavored Markdown](202008011612-github-flavored-markdown.md)
+- [CommonMark](202008011540-commonmark-markdown.md)
+- [GitHub Flavored Markdown](202008011612-github-flavored-markdown.md)
 
 
 <br>

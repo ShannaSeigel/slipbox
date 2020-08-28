@@ -25,14 +25,12 @@ Several implementations of CommonMark exist, including:
 - Stack Overflow
 
 ## WebLinks
-[CommonMark Basics](https://commonmark.org/help/)
-
-[CommonMark Tutorial](https://commonmark.org/help/tutorial/)
-
+- [CommonMark Basics](https://commonmark.org/help/)
+- [CommonMark Tutorial](https://commonmark.org/help/tutorial/)
 
 
-#### Related Notes
-[What is Markdown?](202007251031-what-is-markdown.md)
+
+#### Related Notes: [What is Markdown?](202007251031-what-is-markdown.md)
 
 <br>
 
