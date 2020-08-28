@@ -9,9 +9,11 @@ author: Shanna
 ### What is [Markdown](../mocs/%F0%9F%9F%A3MARKDOWN)??
 
 > It’s a plain text format for writing structured documents, based on formatting conventions from email and usenet. 
+> 
 > — [commonmark.org](https://commonmark.org/)
 
 > What distinguishes Markdown from many other lightweight markup syntaxes... is its readability. 
+> 
 > — [GitHub](https://github.com)
 
 Developed in 2004, many variations of markdown language exist. Developer John Gruber has an overview of markdown on his website [Daring Fireball](https://daringfireball.net/projects/markdown/syntax#overview)
