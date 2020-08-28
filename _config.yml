@@ -9,6 +9,6 @@ minima:
   date_format: "%a, %b %-d, %Y"
 
 header_pages:
-  - ../one_pagers/about.md
+  - about.md
   - README.md
 
