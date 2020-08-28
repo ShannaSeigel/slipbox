@@ -24,11 +24,12 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
  <button type="button" class="collapsible">Fold</button>
 <div style="display: none; overflow: hidden;">
-
+<p>
 **Aug 28, 2020**
 - No major changes, just reading more about command line and working with Jekyll. My first attempts at following a tutorial to install Jekyll was a bust but I didn't even know what I was doing. Trying to back up a bit.
 - Also trying to pace myself since I have loads of other things to do in my life and it's not like anything I share here has a completion deadline.
 - The page titles keep getting duplicated and I saw last week how to fix this but it's still driving me slightly bonkers when I want one title in the navigation and a more descriptive title on the page. It seems like there are other ways to add navigation links ([review here](https://jekyllrb.com/tutorials/navigation/)) but I haven't had time to review.
+	</p>
 </div> 
 
 <br>
