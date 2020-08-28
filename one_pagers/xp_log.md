@@ -5,13 +5,14 @@ author: Shanna's lost brain cells
 
 ---
 <i>
-Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the (probably harder) free route instead of a website building platform.</i>
+Log of my findings and experiences for my future reference (or horror!). I have no recent/relevant experience with website building and am going with the free route instead of a website building platform.</i>
 
 
-#### Learning Aids
+#### Learning Aids So Far
 - [Liquid date format](https://shopify.github.io/liquid/filters/date/)
 - [Minima theme](https://github.com/jekyll/minima)
 - [blog w/Jekyll+GH Pages](https://kalyanv.com/2018/09/12/build-a-blog-using-jekyll-and-deploy-to-github-pages-and-set-custom-domain.html)
+- [Many posts from Tania Rascia](https://www.taniarascia.com/)
 - To review: 
 	- [Liquid Intro](https://shopify.github.io/liquid/basics/introduction/)
 	- [GH Themes/CSS](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
@@ -21,7 +22,12 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 ### <ins>What have I been up to? What have I learned?</ins>
 
+**Aug 28, 2020**
+- No major changes, just reading more about command line and working with Jekyll. My first attempts at following a tutorial to install Jekyll was a bust but I didn't even know what I was doing. Trying to back up a bit.
+- Also trying to pace myself since I have loads of other things to do in my life and it's not like anything I share here has a completion deadline.
 
+
+<br>
 
 **Aug 24, 2020**
 - After a bazillion commits because I haven't figured out local view, I think it's good enough. I forgot how many tiny, tiny changes suck up hours of time. And I'm not doing anything complicated.
@@ -63,4 +69,4 @@ Test pages in local Obsidian graph
 ---
 
 
-###### ✍️ Created Aug-23-2020 / Updated {{ "now" | date: "%Y-%b-%d" }}
+###### ✍️ Created Aug-23-2020 / Updated Aug-28-2020

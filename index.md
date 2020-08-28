@@ -7,8 +7,8 @@ description: Learning as I go.
 
 Welcome to my test site, a trial and error experiment in learning how to build modern websites and hosting my ~~ZK/garden/second brain/what-have-you~~ Obsidian vault online.
 
-- I made a [list of rules](docs/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
-- I've got an [experience log](docs/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
+- I made a [list of rules](one_pagers/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
+- I've got an [experience log](one_pagers/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
 - Using the [Minima theme](https://github.com/jekyll/minima) for learning.
 
 ## Plans for Slipbox Files
