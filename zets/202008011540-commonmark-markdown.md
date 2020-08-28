@@ -14,7 +14,9 @@ author: Shanna
 	- No standard test reference
 		- [mdTest](202008010550-mdtest.md) can provide testing of .md implementations
 		-  [Babelmark](202008011551-babelmark-for-markdown.md) can compare output of 20+ flavors of .md and see if there’s a consensus result.
-- CommonMark aims to have a
+
+CommonMark aims to have a
+
 > <ins>standard, unambiguous syntax specification for Markdown</ins>, along with a <ins>suite of comprehensive tests</ins> to validate Markdown implementations against this specification.
 
 Several implementations of CommonMark exist, including:
@@ -24,6 +26,7 @@ Several implementations of CommonMark exist, including:
 
 ## WebLinks
 [CommonMark Basics](https://commonmark.org/help/)
+
 [CommonMark Tutorial](https://commonmark.org/help/tutorial/)
 
 
@@ -35,6 +38,3 @@ Several implementations of CommonMark exist, including:
 
 ###### Created Aug-01-2020 / Updated ∞
 
----
-
-Tags: 

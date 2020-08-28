@@ -15,7 +15,7 @@ GitHub Flavored Markdown (GFM) is a version of [markdown](../mocs/🟣MARKDOWN.m
 
 <br>
 
-###### Created AUG-01-2020 / Updated ∞
+###### Created Aug-01-2020 / Updated ∞
 
 ---
 
