@@ -12,6 +12,8 @@ author: Shanna
 > 
 > — [commonmark.org](https://commonmark.org/)
 
+<br>
+
 > What distinguishes Markdown from many other lightweight markup syntaxes... is its readability. 
 > 
 > — [GitHub](https://github.com)
