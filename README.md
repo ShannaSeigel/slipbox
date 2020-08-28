@@ -7,4 +7,4 @@ Not much else to say right now.
 
 ---
 
-###### ✍️ Created Aug-23-2020 / Updated {{ "now" | date: "%Y-%b-%d" }}
+###### ✍️ Created Aug-23-2020 / Updated Aug-26-2020
