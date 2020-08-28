@@ -10,5 +10,5 @@ minima:
 
 header_pages:
   - about.md
-  - README.md
+  - ../one_pagers/test-page.md
 
