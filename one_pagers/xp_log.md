@@ -22,7 +22,7 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 ### <ins>What have I been up to? What have I learned?</ins>
 
- <button type="button" class="collapsible">Old</button>
+ <button type="button" class="collapsible">Unfold</button>
 <div style="display: none;">
 <p>
 **Aug 28, 2020**
@@ -70,3 +70,19 @@ Test pages in local Obsidian graph
 </p>
 
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
