@@ -5,13 +5,9 @@ author: Shanna
 
 ---
 
-*by Gretchen Rubin*
+by Gretchen Rubin | [Goodreads link](https://www.goodreads.com/book/show/6398634-the-happiness-project?from_search=true&from_srp=true&qid=kyrAvHwYlb&rank=1)
 
-[Goodreads link](https://www.goodreads.com/book/show/6398634-the-happiness-project?from_search=true&from_srp=true&qid=kyrAvHwYlb&rank=1)
-
-Summary by Summerian; shared for free to Habitify users
-
-↳ As of 2020 I'm not using either of these apps
+*Summary by Summerian; shared for free to Habitify users.*
 
 ### Impression:
 If the real book is as vapid and blind to privilege as the summary, I'm glad I didn't read it. It sounds like the author digs into stoicism and happiness but the summary does not reflect this at all. **My time would probably be better spent going back to the source material from Aristotle and other authors.**
@@ -65,6 +61,7 @@ It's very possible the book is actually well researched and nuanced so I'll cut 
 - Possibly the "Love Languages" book(s)
 - US Constitution. I've never read it in full
 
+[[../../✅ Task List]]: Expand some of these ideas on core values
 
 <br>
 
