@@ -14,6 +14,6 @@ I'm testing out the idea of my own online knowledge repository. Copying my 'read
 *I jumped on Obsidian train in June (I think) but I've used plenty of other programs in the past. I had been using [Bear](https://bear.app/) for several years since it's very easy to work with and I can export any of my notes as text or markdown files. Ideally I want my documents to be independent of any specific software.*
 
 
----
+<br>
 
 ###### Created Aug-23-2020 / Updated Aug-28-2020 
