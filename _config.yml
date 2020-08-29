@@ -12,3 +12,9 @@ header_pages:
   - about.md
 
 # file must be in repo root to show up here
+
+ # generate social links in footer
+  social_links:
+    twitter: ShannaSeigel
+    github:  ShannaSeigel
+    linkedin: ShannaSeigel
