@@ -31,8 +31,3 @@ Other stuffs
 
 <br><br>
 
-### Blogglerizer
-Blog posts, should they exist, will appear below.
-
----
-
