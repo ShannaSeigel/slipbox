@@ -28,17 +28,11 @@ Several implementations of CommonMark exist, including:
 - [CommonMark Basics](https://commonmark.org/help/)
 - [CommonMark Tutorial](https://commonmark.org/help/tutorial/)
 
-
-
-✎ Related Notes
-✐ Related Notes: [What is Markdown?](202007251031-what-is-markdown.md)
-🗒Related Notes
-📄Related Notes
-
-
-
-
 <br>
 
 ###### Created Aug-01-2020 / Updated ∞
+
+---
+
+🗒Related Notes: [What is Markdown?](202007251031-what-is-markdown.md)
 
