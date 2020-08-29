@@ -16,4 +16,4 @@ I'm testing out the idea of my own online knowledge repository. Copying my 'read
 
 ---
 
-###### ✍️ Created Aug-23-2020 / Updated Aug-28-2020 
+###### Created Aug-23-2020 / Updated Aug-28-2020 

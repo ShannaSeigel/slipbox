@@ -18,6 +18,10 @@ Other stuffs
 - I've got an [experience log](one_pagers/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
 - Using the [Minima theme](https://github.com/jekyll/minima) for learning.
 
+
+<br>
+
+
 ## Plans for Slipbox Files
 - Need to review incoming files from my existing notes for formatting requirements regarding filenames and links.
 - Make sure to maintain this structure going forward.
