@@ -5,7 +5,7 @@ author: Shanna
 
 ---
 
-by Gretchen Rubin | [Goodreads link](https://www.goodreads.com/book/show/6398634-the-happiness-project?from_search=true&from_srp=true&qid=kyrAvHwYlb&rank=1)
+by Gretchen Rubin  /  [Goodreads link](https://www.goodreads.com/book/show/6398634-the-happiness-project?from_search=true&from_srp=true&qid=kyrAvHwYlb&rank=1)
 
 *Summary by Summerian; shared for free to Habitify users.*
 
@@ -65,7 +65,7 @@ It's very possible the book is actually well researched and nuanced so I'll cut 
 
 <br>
 
-###### Created Aug-22-2020 / Updated ∞
+###### Created Aug-22-2020 / Updated Aug-28-2020
 
 ---
 
