@@ -21,9 +21,6 @@ author: Shanna
 - [Babelmark](../zets/202008011551-babelmark-for-markdown.md)
 - [Typora](../zets/202008132239-typora.md)
 
-
-
----
-
+<br>
 
 ###### Created Aug 20, 2020 / Updated Aug-28-2020 
