@@ -30,7 +30,8 @@ Several implementations of CommonMark exist, including:
 
 
 
-✎✏✐ Related Notes: [What is Markdown?](202007251031-what-is-markdown.md)
+✎ Related Notes
+✐ Related Notes: [What is Markdown?](202007251031-what-is-markdown.md)
 🗒Related Notes
 📄Related Notes
 
