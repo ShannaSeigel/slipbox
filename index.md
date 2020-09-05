@@ -6,6 +6,8 @@ description: Learning as I go.
 ---
 
 Welcome to my test site, a trial and error experiment in learning how to build modern websites and hosting my ~~ZK/garden/second brain/what-have-you~~ Obsidian vault online.
+<br>
+*Last update: Sep-5-2020.*
 
 ## Recent:
 - Trying out a browser based preview of local files.
