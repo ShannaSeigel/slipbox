@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Shanna's Slipbox
+title: About My Digital Brain
 
 ---
 
