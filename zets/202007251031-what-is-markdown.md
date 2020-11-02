@@ -22,13 +22,13 @@ Markdown is a plain text way of formatting documents while keeping the content r
 
 
 ### It's possible to convert between variations or markdown
-For example, with [Pandoc](202008021358-pandoc-program.md)
+For example, with [Pandoc](202008021358-pandoc-program)
 
 
 
 ### Examples of markdown variations:
-- [CommonMark](202008011540-commonmark-markdown.md)
-- [GitHub Flavored Markdown](202008011612-github-flavored-markdown.md)
+- [CommonMark](202008011540-commonmark-markdown)
+- [GitHub Flavored Markdown](202008011612-github-flavored-markdown)
 
 
 <br>

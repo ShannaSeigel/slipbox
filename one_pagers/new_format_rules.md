@@ -22,7 +22,7 @@ author: Shanna
 
 <br><br>
 
-More thoughts in [experience log](xp_log.md)
+More thoughts in [experience log](xp_log)
 
 ---
 

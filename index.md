@@ -11,13 +11,13 @@ Welcome to my test site, a trial and error experiment in learning how to build m
 
 ## Recent:
 - Trying out a browser based preview of local files.
-- [A zettel appears!](zets/202007251031-what-is-markdown.md) Moving some of my preexisting notes here to start testing how to share info online and/or how to organize it.
+- [A zettel appears!](zets/202007251031-what-is-markdown) Moving some of my preexisting notes here to start testing how to share info online and/or how to organize it.
 - I was also working on index notes or "maps of content" (MOCs) previously for organizing bigger groups of notes. Working to update my [content map about Markdown](mocs/%F0%9F%9F%A3MARKDOWN).
 
 
 #### Other stuffs
-- I made a [list of rules](one_pagers/new_format_rules.md) I need to follow after being used to Bear or Obsidian links.
-- I've got an [experience log](one_pagers/xp_log.md) since I'm not a programmer and have no clue what I'm doing.
+- I made a [list of rules](one_pagers/new_format_rules) I need to follow after being used to Bear or Obsidian links.
+- I've got an [experience log](one_pagers/xp_log) since I'm not a programmer and have no clue what I'm doing.
 - Using the [Minima theme](https://github.com/jekyll/minima) for learning.
 
 

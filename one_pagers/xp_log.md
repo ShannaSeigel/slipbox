@@ -53,7 +53,7 @@ Log of my findings and experiences for my future reference (or horror!). I have 
 
 **Aug 22, 2020**
 - Created Obsidian vault just from this folder as the root folder that will be shared to GitHub.
-- Made a [reference](new_format_rules.md) of tips to keep in mind to transition from my usual markdown workflow to writing with the intent of hosting content online.
+- Made a [reference](new_format_rules) of tips to keep in mind to transition from my usual markdown workflow to writing with the intent of hosting content online.
 	- Mainly linking and file names.
 - Spent time testing out how to correctly create links between .md files.
 	- Able to see different types of links in my Obsidian graph that don't translate to links in GH Pages.

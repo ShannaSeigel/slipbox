@@ -5,7 +5,7 @@ author: Shanna
 
 ---
 
-GitHub Flavored Markdown (GFM) is a version of [markdown](../mocs/🟣MARKDOWN.md) based on [CommonMark](202008011540-commonmark-markdown.md) but adds features like @mentions
+GitHub Flavored Markdown (GFM) is a version of [markdown](../mocs/%F0%9F%9F%A3MARKDOWN) based on [CommonMark](202008011540-commonmark-markdown) but adds features like @mentions
 
 - GitHub's example sheets 
 	- [What is GFM?](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
