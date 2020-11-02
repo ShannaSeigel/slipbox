@@ -1,11 +1,6 @@
----
-layout: page
-title: GitHub Flavored Markdown
-author: Shanna
+<small>← [Markdown MOC](slipbox/-markdown)</small>
 
----
-
-GitHub Flavored Markdown (GFM) is a version of [markdown](../mocs/%F0%9F%9F%A3MARKDOWN) based on [CommonMark](202008011540-commonmark-markdown) but adds features like @mentions
+GitHub Flavored Markdown (GFM) is a version of [markdown](slipbox/-markdown) based on [CommonMark](slipbox/commonmark-markdown) but adds features like @mentions
 
 - GitHub's example sheets 
 	- [What is GFM?](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
@@ -15,8 +10,11 @@ GitHub Flavored Markdown (GFM) is a version of [markdown](../mocs/%F0%9F%9F%A3MA
 
 <br>
 
-###### Created Aug-01-2020 / Updated ∞
+
 
 ---
 
 Tags: #github
+
+
+<small>↳ <i>Created Aug-01-2020 / Updated ∞ </i></small>

@@ -1,11 +1,6 @@
----
-layout: page
-title: Typora Program
-author: Shanna
+<small>← [Markdown MOC](slipbox/-markdown)</small>
 
----
-
-Typora is a [markdown](../mocs/%F0%9F%9F%A3MARKDOWN) file editor that allows you to see what the published view will be while working in a file. 
+Typora is a [markdown](slipbox/-markdown) file editor that allows you to see what the published view will be while working in a file. 
 - Also called WYSIWYG editor, "What you see is what you get"
 
 
@@ -23,8 +18,10 @@ Typora is a [markdown](../mocs/%F0%9F%9F%A3MARKDOWN) file editor that allows you
 
 <br>
 
-###### Created Aug-13-2020 / Updated ∞
+
 
 ---
 
-Tags: #typora #software #editor #markdown_tool
+Tags: #typora #software #editor 
+
+<small>↳ <i>Created Aug-13-2020 / Updated Oct-20-2020 </i></small>

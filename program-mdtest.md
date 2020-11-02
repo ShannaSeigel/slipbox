@@ -1,22 +1,18 @@
----
-layout: page
-title: MDTest
-author: Shanna
-
----
+<small>← [Markdown MOC](slipbox/-markdown)</small>
 
 [MDTest at GitHub](https://github.com/michelf/mdtest/) 
 
 - Mainly used for development of PHP Markdown.
-- Can test different [markdown](../mocs/%F0%9F%9F%A3MARKDOWN) implementations.
+- Can test different [markdown](slipbox/-markdown) implementations.
 
 *Note to Self: Probably not something I'd be using in the near future.*
 
 
 <br>
 
-###### Created Aug-01-2020 / Updated ∞
 
 ---
 
 Tags: #internet_tools 
+
+<small>↳ <i>Created Aug-01-2020 / Updated ∞ </i></small>
